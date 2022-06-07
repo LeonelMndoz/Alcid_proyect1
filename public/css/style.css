@@ -102,6 +102,12 @@ p{
     text-align: center;
 }
 
+.universidad-section {
+    margin-top: 90px;
+    justify-content: center;
+    text-align: center;
+}
+
 .links-contact img{
     width: 40px;
 }
